@@ -1,6 +1,6 @@
 # DBS Paper
 
-The paper template of Doshisha Business School.
+The paper template of Doshisha Business School. Visit the [project site](http://jsadeli.github.io/DBS-Paper/) for more information.
 
 ## Specifications v1.0
 
